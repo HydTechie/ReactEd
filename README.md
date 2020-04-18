@@ -1,2 +1,0 @@
-# ReactEd
-Created with CodeSandbox
